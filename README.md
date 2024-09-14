@@ -26,12 +26,13 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 1. Describe your project.
 
-   - Write your response here...
+   - In this Project on a 16 by 16 grid a sprite of Kirby from Kirby's adventure in a java file.
 
 2. What are two things about your project that you are proud of?
 
-   - Write your response here...
+   - I am proud of my ability to make pixel art using code
+   - I am also proud of my debugging and problem solving skills
 
 3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
 
-   - Write your response here...
+   - I wish I used more while-loops, if-statments, etc to streamline the process and use less code.
